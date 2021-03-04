@@ -1,7 +1,7 @@
 PROJEKT KOMPILATORA
 kurs : Języki Formalne i Techniki Translacji
 autor : Wojciech Wróblewski
-nr_indeksu : 250349
+
 
 Projekt kompilatora prostego języka imperatywnego.
 
